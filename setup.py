@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="DIYables_MicroPython_OLED",
-    version="0.1.1",
+    version="0.1.2",
     description="MicroPython Library for OLED display, created by DIYables",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
